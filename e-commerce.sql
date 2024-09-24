@@ -1,3 +1,6 @@
+-- Create the database
+CREATE DATABASE ecommerce;
+
 -- Create the customers table
 CREATE TABLE customers (
   id INT AUTO_INCREMENT PRIMARY KEY,
